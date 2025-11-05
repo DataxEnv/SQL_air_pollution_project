@@ -1,5 +1,5 @@
 # Urban Air Pollution in Lagos – SQL Project
-This project looks at simulated air quality data from a few urban areas in Lagos, Nigeria. I used SQLite to clean the data and ran my analysis in Jupyter Notebook using ipython-sql. It’s part of my process of learning SQL while building a portfolio around environmental data. 
+This project looks at simulated air quality data from a few urban areas in Lagos, Nigeria. I used SQLite to clean the data and ran my analysis in `Jupyter Notebook` using `ipython-sql`. It’s part of my process of learning SQL while building a portfolio around environmental data. 
 
 ## Project Overview
 **Goal**: Clean and analyze air quality data to explore pollution trends in Lagos.
