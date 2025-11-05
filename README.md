@@ -14,8 +14,8 @@ The dataset includes 60+ records collected over 10 days from 6 Lagos locations.
 | ------------------- | -------------------------------------------------------------------------- |
 | `Date`              | Day of measurement                                                         |
 | `Location`          | Lagos area (e.g., Ikeja, Lekki)                                            |
-| `PM2.5 (µg/m³)`     | Fine particulate matter — a harmful pollutant linked to respiratory issues |
-| `CO (ppm)`          | Carbon monoxide — a gas from cars, generators, etc.                        |
+| `PM2.5 (µg/m³)`     | Fine particulate matter: a harmful pollutant linked to respiratory issues |
+| `CO (ppm)`          | Carbon monoxide: a gas from cars, generators, etc.                        |
 | `Temperature (°C)`  | Affects how pollutants behave in the air                                   |
 | `Wind Speed (km/h)` | Influences how pollution spreads or stagnates                              |
 
